@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld_MaxLasitsa_PreWork</string>
+    <string name="introText">My name is Max! I am an international student who is passionate about programming, I also play NCAA hockey</string>
+    <string name="buttonName">Hello, World!</string>
+</resources>
