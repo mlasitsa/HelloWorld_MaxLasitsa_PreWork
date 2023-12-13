@@ -1,4 +1,4 @@
-# Android Prework - *AND102 | Prework*
+# Android Prework - *AND102 | Prework* | FIXED IMAGE ISSUE
 
 Submitted by: Max Lasitsa
 
@@ -10,7 +10,7 @@ Time spent: **40** minutes spent in total dur to the issue with an image
 
 The following **required** functionality is completed:
 
-* [PARTLY] Image and introductory message displayed on screen
+* [YES] Image and introductory message displayed on screen
 * [YES] Button displayed on screen
 * [YES] Toast with message appears when button is pressed 
 
@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/jDl8gH4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />   
+<img src=' https://imgur.com/a/1oV7rZ7' title='Video Walkthrough' width='' alt='Video Walkthrough' />    
 GIF created with [ScreenToGif](https://www.screentogif.com/) for Windows
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
